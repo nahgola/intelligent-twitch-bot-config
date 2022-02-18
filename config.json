@@ -11,7 +11,7 @@
                         "learn": "brex",
                         "send": "brex",
                         "lim": 375,
-                        "prob": 0.02,
+                        "prob": 0.1,
                         "rate": 0.1,
                         "burst": 2,
                         "respond": true,
