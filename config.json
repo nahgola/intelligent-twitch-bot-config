@@ -1,13 +1,13 @@
 {
-        "me": "Functionalt",
+        "me": "billy_bot_btw",
         "prefix": 6,
         "block": "^[]!?>]|://|\\.(com|net|org|tv|edu)|^\\001|^\\S+$",
         "chans": {
-                "#functionalt": {
+                "#billy_bot_btw": {
                         "send": "brex",
                         "respond": true
                 },
-                "#functioneel": {
+                "#empirrre": {
                         "learn": "brex",
                         "send": "brex",
                         "lim": 375,
