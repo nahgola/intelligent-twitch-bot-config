@@ -11,18 +11,18 @@
                         "learn": "brex",
                         "send": "brex",
                         "lim": 375,
-                        "prob": 0.1,
+                        "prob": 0.033,
                         "rate": 0.1,
                         "burst": 2,
                         "respond": true,
-                        "emotes": [{"e": "btw you should stretch, hydrate, and take care of yourself <3", "w": 1}],
+                        "emotes": [{"e": "", "w": 1}],
                         "privs": [{"user": "brexbot", "priv": "bot"}]
                 }
         },
         "emotes": [
                 {"e": "", "w": 4},
-                {"e": "PogChamp", "w": 1},
-                {"e": "D:", "w": 1}
+                {"e": "", "w": 1},
+                {"e": "", "w": 1}
         ],
         "privs": [
                 {"user": "functioneel", "priv": "owner"},
