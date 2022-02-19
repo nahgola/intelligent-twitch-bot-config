@@ -15,24 +15,13 @@
                         "rate": 0.1,
                         "burst": 2,
                         "respond": true,
-                        "emotes": [{"e": "desu", "w": 2}, {"e": "btw you should stretch, hydrate, and take care of yourself <3", "w": 1}],
+                        "emotes": [{"e": "btw you should stretch, hydrate, and take care of yourself <3", "w": 1}],
                         "privs": [{"user": "brexbot", "priv": "bot"}]
                 }
         },
         "emotes": [
                 {"e": "", "w": 4},
-                {"e": "      \\_(                 ^|   ^v             )_/      ", "w": 1},
-                {"e": "xD", "w": 1},
-                {"e": "(                 ^|   ^v             )", "w": 1},
-                {"e": "(   ^w^u   ^w      ^w^u)", "w": 1},
-                {"e": "(    ^`      ^`            ^`      ^a)", "w": 1},
-                {"e": "(/   ^i         )", "w": 1},
-                {"e": "(   ^u      ^x^~                ^w^|       )   ^u      ^x^~", "w": 1},
-                {"e": "   ^h   (    ^p^{    ^`^m   ^h   )         ", "w": 1},
-                {"e": "(            ^{   ^i      ^{      ^`)", "w": 1},
-                {"e": ";)", "w": 1},
                 {"e": "PogChamp", "w": 1},
-                {"e": "   ^c^z(            `   ^c^z)", "w": 1},
                 {"e": "D:", "w": 1}
         ],
         "privs": [
