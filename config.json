@@ -1,13 +1,13 @@
 {
-        "me": "billy_bot_btw",
+        "me": "uverseBot",
         "prefix": 6,
         "block": "^[]!?>]|://|\\.(com|net|org|tv|edu)|^\\001|^\\S+$",
         "chans": {
-                "#billy_bot_btw": {
+                "#uverseBot": {
                         "send": "brex",
                         "respond": true
                 },
-                "#empirrre": {
+                "#hyruverse": {
                         "learn": "brex",
                         "send": "brex",
                         "lim": 375,
