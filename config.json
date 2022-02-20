@@ -26,12 +26,12 @@
         ],
         "privs": [
                 {"user": "hyruverse", "priv": "owner"},
-                {"user": "StreamElements", "priv": "bot"}
-                {"user": "HyruBot", "priv": "bot"}
-                {"user": "Oura_Bot", "priv": "bot"}
-                {"user": "VJBotardo", "priv": "bot"}
-                {"user": "gempbot", "priv": "bot"}
-                {"user": "CreatisBot", "priv": "bot"}
+                {"user": "StreamElements", "priv": "bot"},
+                {"user": "HyruBot", "priv": "bot"},
+                {"user": "Oura_Bot", "priv": "bot"},
+                {"user": "VJBotardo", "priv": "bot"},
+                {"user": "gempbot", "priv": "bot"},
+                {"user": "CreatisBot", "priv": "bot"},
                 {"user": "ThePositiveBot", "priv": "bot"}
         ]
 }
